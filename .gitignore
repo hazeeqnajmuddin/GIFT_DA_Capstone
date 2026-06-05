@@ -6,8 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-Data/raw/Transactions_2.csv
-
 # Distribution / packaging
 .Python
 build/
@@ -218,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# Capstone Data & LFS Bypasses
+# ==========================================
+# Do not ignore the data directory entirely
+!Data/
+!Data/raw/
+
+# Allow LFS to explicitly track these files
+!Data/raw/Transactions_1.csv
+!Data/raw/Transactions_2.csv
+!Data/raw/Transactions_3.csv
