@@ -1,3 +1,4 @@
 # GIFT_DA_Capstone
 
-Team members: Muhammad Hazeeq Najmuddin
+Team members: 
+1. Muhammad Hazeeq Najmuddin Bin Roshidi
