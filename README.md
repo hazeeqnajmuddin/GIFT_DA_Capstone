@@ -1,3 +1,3 @@
 # GIFT_DA_Capstone
 
-Team members: Muhammad Hazeeq
+Team members: Muhammad Hazeeq Najmuddin
